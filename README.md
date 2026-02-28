@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Sandro Gallina 👋
 
-<!--
-**sg1984/sg1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Engineer with nearly 10 years of experience building and shipping production-grade web applications. Based in Brazil with Brazillian and Italian citizenship — working remotely with teams across Europe and the Americas.
 
-Here are some ideas to get you started:
+I started as a graphic designer, taught myself to code, and haven't stopped shipping since.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- PHP / Laravel (my primary home for 10+ years)
+- Java / Spring Boot
+- Node.js
+- RESTful APIs & third-party integrations
+- TDD — Test Driven Development
+
+**Frontend**
+- React.js / TypeScript
+- Vue.js
+- Inertia.js
+- Tailwind CSS
+
+**Infrastructure & Tools**
+- Docker / Kubernetes
+- MySQL / MariaDB
+- Git
+- Filament (Laravel admin)
+
+**AI-Powered Development**
+- Heavy daily user of Claude, Cursor, and GitHub Copilot
+- Built systematic AI-assisted workflows to go from idea → production faster
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Internet Systems Development** — Instituto Federal do Triângulo Mineiro  
+🇦🇺 Exchange scholarship in Melbourne, Australia (2013–2014) — Ciência sem Fronteiras program
+
+---
+
+## 🌐 Links
+
+- 🌍 Portfolio: [sandrogallina.com](https://sandrogallina.com)
+- 💼 LinkedIn: [Sandro Gallina](https://www.linkedin.com/in/sandro-gallina/)
+- 📧 sandrogallina1984@gmail.com
+- 📧 sandro_gallina@hotmail.com
+
+---
+
+*"The best code is the code that ships."*
